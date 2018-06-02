@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1521993022 source:c:\users\asus\documents\materi kuliah\strukdat\new folder\main\header1.cpp
+	"header.h"
+
+1521974493 c:\users\asus\documents\materi kuliah\strukdat\new folder\main\header.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1521992828 source:c:\users\asus\documents\materi kuliah\strukdat\new folder\main\main.cpp
+	"header.h"
+
+1522075578 source:e:\main\header1.cpp
+	"header.h"
+
+1522073652 e:\main\header.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1522075078 source:e:\main\main.cpp
+	"header.h"
+
+1523365935 source:c:\users\asus\documents\materi kuliah\strukdat\main\main.cpp
+	"header.h"
+
+1523365419 c:\users\asus\documents\materi kuliah\strukdat\main\header.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1523365859 source:c:\users\asus\documents\materi kuliah\strukdat\main\header1.cpp
+	"header.h"
+
+1523365859 source:c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\code\header1.cpp
+	"header.h"
+
+1523365419 c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\code\header.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1523365935 source:c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\code\main.cpp
+	"header.h"
+
+1523365859 source:c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\source code kelompok 17 (aditya & fakhri)\header1.cpp
+	"header.h"
+
+1523365419 c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\source code kelompok 17 (aditya & fakhri)\header.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1525314818 source:c:\users\asus\documents\materi kuliah\strukdat\std_if4104_kelompok17\source code kelompok 17 (aditya & fakhri)\main.cpp
+	"header.h"
+
